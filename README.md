@@ -1,6 +1,8 @@
 # Strips LoRa Translator TTN
 
-This decoder is basically the same as the original payload decoder, with the exceptions of a few edits to fit the TTN format
+This decoder is basically the same as the original payload decoder, with the exceptions of a few edits to fit the TTN format.
+Please note that this version should only be used with The Things Network, for other Network Servers, we recommend https://gitlab.com/sensative/strips-lora-translator-open-source
+
 
 <br>
 
