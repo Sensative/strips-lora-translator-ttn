@@ -13,7 +13,7 @@ Please note that this version should only be used with The Things Network, for o
 2. Click on the `Payload formatters` drop down list in the left menu
 3. Select `Uplink`
 4. Choose `Custom Javascript formater` under `Formatter type`
-5. Paste the code the in the box named `Formatter code`
+5. Paste the code in the in the box named `Formatter code`
 6. Press `Save changes`
 
 <br>
